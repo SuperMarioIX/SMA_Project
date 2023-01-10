@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "503485225759",
+    "project_id": "emagazin-f1b52",
+    "storage_bucket": "emagazin-f1b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503485225759:android:dd355b8d5d30361f49ae2a",
+        "android_client_info": {
+          "package_name": "com.example.emagazin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503485225759-ip418vst15ljg5ah1sk1jao1c9hlsu7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emagazin",
+            "certificate_hash": "19ed2d3a5e8b36f8e27b19ec9b6f2e3f5082430b"
+          }
+        },
+        {
+          "client_id": "503485225759-l46ll5dtgq3j4oiciv73jebdkdrh3hh2.apps.googleusercontent.com",
+          "client_type": 3
+       }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUU8E7Mzw9d2Oq8RF6TMEyQxMtUT41xxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503485225759-l46ll5dtgq3j4oiciv73jebdkdrh3hh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
